@@ -46,7 +46,7 @@ Before running code in a notebook, change the kernel to match the drlnd environm
 
 ## Approach
 
-The implementation approach is based on DQN. The code provides a number of DQN extensions: Double DQN, N-step DQN and Priorized Experience Replay. We compare the convergence of these different approaches.
+The implementation approach is based on DDPG and SAC. The code provides a number of approaches to multi agent training :independent, self play and shared critic which are compared. 
 
 ## Running 
 
