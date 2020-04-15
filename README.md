@@ -45,6 +45,10 @@ Before running code in a notebook, change the kernel to match the drlnd environm
 
 ![Jupyter Kernel](jupyter_kernel.png)
 
+You will also need to download the environment file and unzip it in the project root directory. The environments are (by platform)
+
+https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip
+
 ## Approach
 
 The implementation approach is based on DDPG and SAC. The code provides a number of approaches to multi agent training :independent, self play and shared critic which are compared. 
