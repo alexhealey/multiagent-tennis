@@ -54,7 +54,7 @@ You will also need to download the environment file and unzip it in the project 
 
 ## Approach
 
-The implementation approach is based on DDPG and SAC. The code provides a number of approaches to multi agent training :independent, self play and shared critic which are compared. 
+The implementation approach is based on DDPG and SAC. The code provides a number of approaches to multi agent training: independent, self play and shared critic which are compared. 
 
 ## Running 
 
